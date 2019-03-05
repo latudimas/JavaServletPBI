@@ -1,0 +1,5 @@
+com\mitrais\jpq1\GenericServletImpl.class
+com\mitrais\jpq1\LoginServlet.class
+com\mitrais\jpq1\LifeCycle.class
+com\mitrais\jpq1\LoginFilter.class
+com\mitrais\jpq1\WelcomeServlet.class
